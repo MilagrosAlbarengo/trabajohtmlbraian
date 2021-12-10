@@ -1,0 +1,36 @@
+.parrafoverde{
+color: green;
+font-size: 20px
+text-align: center;
+
+}
+h1{
+  color: blueviolet;
+  font-family: cursive
+
+}
+
+.parraforojo{
+  color: blue;
+  font-size: 20px 
+  text-align:justify;
+}
+
+p{
+  color:orangered;
+  font-size: 20px
+  text-align:right;
+}
+
+h2{
+  color:purple;
+  
+}
+h3{
+  color:red
+}
+
+body{
+  background-color: aquamarine
+}
+
